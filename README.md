@@ -6,7 +6,7 @@ This app allows us to introduce ourselves: first and last name, school name, sch
 
 ### App Walk-though
 
-<img src="https://github.com/GeruiLi/iOSPreWork/blob/main/iOS_pre-work_walk_through.gif" width=200><br>
+<img src="https://github.com/GeruiLi/iOSPreWork/blob/main/new_iOS_pre-work_walk_through.gif" width=200><br>
 
 ### Required Features
 
