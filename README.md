@@ -2,7 +2,7 @@
 
 ### App Description
 
-This app allows us to introduce ourselves: first and last name, school name, school year, number of pets, and whether want more pet or not by accepting user inputs in various forms, such as switches, text fields, segmented controls, and more. 
+This app allows us to introduce ourselves: first and last name, school name, school year, number of pets, and whether want more pet or not by accepting user inputs in various forms, such as switches, text fields, segmented controls, and more.
 
 ### App Walk-though
 
